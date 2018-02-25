@@ -18,3 +18,8 @@ FTP server implemented to serve clients for basic linux commands as part of Dist
 - Server and client should be started from different terminals
 - To start the server, compile server file with `javac myftpserver.java` and to run `java myftpserver <port_no>`
 - To start the client, compile with `javac myftp.java` and to run `java myftp <localhost/server_ipaddress> <port_no>`
+
+**Team Members:**
+
+- Chandana Marneni
+- Shubha Mishra
